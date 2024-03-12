@@ -1,2 +1,2 @@
-# A Data Analysis Project: Are people in happier countries more prone to getting infected with COVID19?
-## Analysing the relationship between the maximum infection rate of COVID19 and the World Happiness Indexes.
+# COVID-Happiness Nexus: Analyzing the Interplay between Pandemic Spread and National Well-being
+Utilizing Python in Jupyter Notebook and employing Pandas and Seaborn, I merged COVID-19 and the World Happiness Indexes datasets, revealing a tentative correlation between higher happiness levels and increased infection rates, underscoring the need for extensive data review.
